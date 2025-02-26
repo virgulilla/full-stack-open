@@ -1,0 +1,1 @@
+Create a .env file and define a variable VITE_WEATHER_KEY= with the API token from OpenWeatherMap.
